@@ -2,6 +2,7 @@ use strict;
 use IO::Socket;
 use Fcntl;
 use Irssi;
+use Irssi::TextUI;
 use Time::Format qw(%strftime);
 #use Data::Dumper;
 
